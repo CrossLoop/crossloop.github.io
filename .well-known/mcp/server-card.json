@@ -1,0 +1,9 @@
+{
+  "mcp-version": "1.0",
+  "name": "Crossloop MCP Server",
+  "description": "MCP server for interacting with Crossloop data",
+  "capabilities": {
+    "tools": true,
+    "resources": true
+  }
+}

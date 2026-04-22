@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {
+      "id": "workout-analysis",
+      "name": "Workout Analysis",
+      "description": "Analyze workout data for performance trends",
+      "schema": "https://crossloop.app/schemas/skills/workout-analysis.json"
+    }
+  ]
+}

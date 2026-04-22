@@ -1,0 +1,9 @@
+{
+  "api-catalog": [
+    {
+      "name": "Crossloop API",
+      "description": "API for Crossloop performance engine",
+      "url": "https://crossloop.app/api-docs.json"
+    }
+  ]
+}
